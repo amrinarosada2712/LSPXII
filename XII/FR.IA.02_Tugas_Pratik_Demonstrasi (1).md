@@ -49,7 +49,11 @@ Anda adalah seorang _Junior Web Developer_ yang ditugaskan oleh perusahaan untuk
 
 1\. Terdapat menu untuk menampilkan
 
-*   Produk (sertakan image 3 contoh jenis mobil : Fortuner, Creta, CRV)
+Contoh tampilan:
+
+[https://github.com/amrinarosada2712/LSPXII/blob/main/XII/img/Picture3.png](https://github.com/amrinarosada2712/LSPXII/blob/main/XII/img/Picture3.png)
+
+*   Produk (sertakan image 3 contoh jenis mobil : Fortuner, Creta, CRV) [(materi)](array.md)
 *   Daftar harga , tampilan tabel harga
 *   Tentang kami, berisi uraian deskripsi alamat rental, no telp, alamat email
 *   Pesan , tampil form dan ketentuannya dijelaskan pada butir
