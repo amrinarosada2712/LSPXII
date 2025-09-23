@@ -56,8 +56,8 @@ Anda adalah seorang _Junior Web Developer_ yang ditugaskan oleh perusahaan untuk
 
 2\. Pengunjung dapat memesan  rental mobil dengan skenario sebagai berikut:
 
-*   Tampilan form pemesanan  
-    ![](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/asust/OneDrive/Dokumen/Materi%202025/XII/img/Picture1.png)
+*   Tampilan form pemesanan Link gambar:  
+    [https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/Picture1.png](https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/Picture1.png)
 
 **Aturan pengisian form:**
 
@@ -78,12 +78,17 @@ Anda adalah seorang _Junior Web Developer_ yang ditugaskan oleh perusahaan untuk
 *   Jika **lama nyewa > 3 hari**, maka **diskon 10%**.
 *   Jika **pilih supir**, maka **tambahan 100.000**.
 
-**Penyimpanan data**: Hasil isian disimpan dalam **array** atau **tabel** pada **database MySQL**, dan ditampilkan kembali (mis. dalam tabel riwayat).  
-![](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/asust/OneDrive/Dokumen/Materi%202025/XII/img/Picture2.png)  
+**Penyimpanan data**: Hasil isian disimpan dalam **array** atau **tabel** pada **database MySQL**, dan ditampilkan kembali (mis. dalam tabel riwayat).
+
+link gambar:  
+[https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/Picture2.png](https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/Picture2.png)  
 **Media**: Tambahkan **foto** dan **video** jenis mobil yang tersedia (Fortuner, Creta, CRV).  
-![](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/asust/OneDrive/Dokumen/Materi%202025/XII/img/fortuner.jpg)  
-![](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/asust/OneDrive/Dokumen/Materi%202025/XII/img/creta.jpg)  
-![](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/asust/OneDrive/Dokumen/Materi%202025/XII/img/crv.jpg)
+Link Gambar:
+
+[https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/creta.jpg](https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/creta.jpg)
+
+[https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/crv.jpg](https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/crv.jpg)  
+[https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/fortuner.jpg](https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/fortuner.jpg)
 
 ---
 
