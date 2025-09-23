@@ -290,3 +290,5 @@ $rentals[] = ["Avanza", 500000, "avanza.jpg"];
 *   **Navbar tidak bisa collapse di HP** → pastikan `<script ...bootstrap.bundle.min.js>` ada di akhir.
 *   **Font/ikon tampak “berantakan”** → kadang CDN ke-block; pastikan internet aktif atau gunakan mirror CDN lain (opsional).
 *   **Klik “Produk”/“Tentang Kami” tidak scroll** → pastikan `id="produk"` dan `id="tentang"` ada (sudah ada di kode).
+
+[Kembali](index.md)

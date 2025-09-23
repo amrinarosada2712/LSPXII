@@ -305,3 +305,5 @@ a) Nama Pemesan
 3.  Pengguna isi nama, gender, identitas (16 digit), tanggal, durasi, dan centang supir bila perlu.
 4.  Klik **Hitung Total** untuk melihat total di kolom “Total Bayar”.
 5.  Klik **Simpan** untuk menampilkan alert ringkasan dan kembali ke `index.php`.
+
+[Kembali](index.md)
