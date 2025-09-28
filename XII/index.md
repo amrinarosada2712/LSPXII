@@ -94,6 +94,10 @@ Link Gambar:
 [https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/crv.jpg](https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/crv.jpg)  
 [https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/fortuner.jpg](https://raw.githubusercontent.com/amrinarosada2712/LSPXII/refs/heads/main/XII/img/fortuner.jpg)
 
+Soal Esay untuk mencari jawaban dari coding disini silahkan kerjakan dibuku tulis:
+
+Klik [disini Soal Esay](soal.md) 
+
 ---
 
 ## Alat dan Bahan
